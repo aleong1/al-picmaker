@@ -1,2 +1,2 @@
-default: picmaker.py
+all: picmaker.py
 	python3 picmaker.py
